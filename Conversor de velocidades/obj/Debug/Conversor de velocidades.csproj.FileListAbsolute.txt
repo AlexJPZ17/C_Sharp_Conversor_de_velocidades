@@ -1,0 +1,6 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Conversor de velocidades\Conversor de velocidades\bin\Debug\Conversor de velocidades.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Conversor de velocidades\Conversor de velocidades\bin\Debug\Conversor de velocidades.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Conversor de velocidades\Conversor de velocidades\bin\Debug\Conversor de velocidades.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Conversor de velocidades\Conversor de velocidades\obj\Debug\Conversor de velocidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Conversor de velocidades\Conversor de velocidades\obj\Debug\Conversor de velocidades.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Conversor de velocidades\Conversor de velocidades\obj\Debug\Conversor de velocidades.pdb
